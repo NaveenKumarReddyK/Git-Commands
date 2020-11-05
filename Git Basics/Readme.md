@@ -44,8 +44,13 @@
 ### Rename a file on both gtihub repo and locally
 > #### ` git mv current_filename new_filename ` + commit and push
 
+### Override existing folder or file name in github repo
+> #### ` git mv -f current_filename new_filename` + commit and push
+
 ### Delete a file on both github repo and locally
 > #### ` git rm filename` + commit and push
 
 ### Get difference between to commits
 > #### ` git diff commit_id1 commit_id2`
+
+### For More Information  click [here](https://git-scm.com/docs)

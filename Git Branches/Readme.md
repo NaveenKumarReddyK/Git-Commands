@@ -28,3 +28,4 @@
 ### Deleting branches both locally and on github repo
 > #### ` git push origin --delete branch_Name`   
 
+### For More Information  click [here](https://git-scm.com/docs/git-branch)

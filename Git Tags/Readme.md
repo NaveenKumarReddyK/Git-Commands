@@ -18,3 +18,5 @@
 ### Delete tag locally + on github repo
 > ### ` git push origin :your_TagName `
 > ### ` git push --delete origin your_TagName ` + delete locally 
+
+### For More Information  click [here](https://git-scm.com/docs/git-tag)
