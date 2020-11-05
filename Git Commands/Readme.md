@@ -3,6 +3,9 @@
 ### Clone a repo
 > #### ` git clone ` + ` link to SSH or CLI `
 
+### Get details about some git command
+> #### ` git help ` + ` your command `
+
 ### Create a new file in git bash (basics)
 > #### ` touch ` + ` file name `
 
@@ -17,3 +20,9 @@
 
 ### Commit changes made to the files
 > #### ` git commit -a -m 'Commit message' `
+
+### Push commited changes
+> #### ` git push `
+
+### To unstage changes (roll back to unstaged state)
+> #### ` git reset HEAD ` + ` File Name `

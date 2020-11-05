@@ -1,1 +1,1 @@
->> ### This repo is for ` git ` practise only
+> ### This repo contains most basic ` git ` commands to work remotely 
