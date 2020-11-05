@@ -26,3 +26,26 @@
 
 ### To unstage changes (roll back to unstaged state)
 > #### ` git reset HEAD ` + ` File Name `
+
+### Git History
+> #### ` git log `
+
+### Git History in a good format
+> #### ` git log --oneline --graph --decorate -all `
+> ##### ` oneline ` to display only commmit ID and commit message
+> ##### ` graph ` to show branch connections 
+> ##### ` decorate ` which commits are mapped to which branch
+> ##### ` all ` to display all logs
+
+### Alisases to customise large commands to custom git command
+> #### ` git config --global alias.` + ` your custom command name ` + ` original git command/s `
+> #### Example : ` git config --global alias.myhistory 'log --oneline --graph --decorate -all `
+
+### Rename a file on both gtihub repo and locally
+> #### ` git mv current_filename new_filename ` + commit and push
+
+### Delete a file on both github repo and locally
+> #### ` git rm filename` + commit and push
+
+### Get difference between to commits
+> #### ` git diff commit_id1 commit_id2`
