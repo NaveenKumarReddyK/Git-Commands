@@ -54,3 +54,5 @@
 > #### ` git diff commit_id1 commit_id2`
 
 ### For More Information  click [here](https://git-scm.com/docs)
+
+### Official [git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
